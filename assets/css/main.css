@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
-	line-height: 1;
+	line-height: 0;
 }
 
 ol, ul {
@@ -121,14 +121,14 @@ input, select, textarea {
 		font-size: 1.65em;
 		font-weight: 400;
 		letter-spacing: 4px;
-		margin: 0 0 1.5em 0;
+		margin: 0 0 1em 0;
 		line-height: 1.75em;
 	}
 
 	h3 {
 		font-size: 1em;
 		letter-spacing: 2px;
-		margin: 0 0 1.25em 0;
+		margin: 0 0 1em 0;
 	}
 
 	a {
@@ -149,12 +149,12 @@ input, select, textarea {
 		}
 
 		a:hover {
-			color: #ed786a;
+			color: rgb(182, 163, 24);
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
 			a:hover strong {
-				color: #ed786a;
+				color: rgb(182, 163, 24);
 			}
 
 	strong, b {
@@ -191,11 +191,11 @@ input, select, textarea {
 
 	p {
 		text-align: justify;
-		margin-bottom: 2em;
+		margin-bottom: 1em;
 	}
 
 	ul, ol, dl, table, blockquote {
-		margin-bottom: 2em;
+		margin-bottom: 1em;
 	}
 
 	br.clear {
@@ -1579,7 +1579,7 @@ input, select, textarea {
 /* Actions */
 
 	ul.actions {
-		margin-top: 2.5em;
+		margin-top: 2em;
 		clear: both;
 		list-style: none;
 		padding-left: 0;
@@ -1605,8 +1605,8 @@ input, select, textarea {
 		ul.divided li {
 			border-top: solid 2px #e5e5e5;
 			padding-left: 0;
-			margin: 2.5em 0 0 0;
-			padding: 2.5em 0 0 0;
+			margin: 2em 0 0 0;
+			padding: 2em 0 0 0;
 		}
 
 			ul.divided li:first-child {
@@ -1768,7 +1768,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #ed786a;
+		background:rgb(182, 163, 24);
 		color: #fff !important;
 		text-transform: uppercase;
 		border-radius: 4px;
@@ -1892,14 +1892,14 @@ input, select, textarea {
 
 		#header > .container {
 			padding: 14em 0 7em 0;
-			border-bottom: solid 2px #e5e5e5;
+			border-bottom: solid 1px #e5e5e5;
 			box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
 		}
 
 		#header h1 {
 			font-family: 'Arvo';
 			font-weight: 700;
-			color: #ed786a;
+			color: rgb(182, 163, 24);
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
 			font-size: 3em;
 			letter-spacing: 13px;
@@ -1913,7 +1913,7 @@ input, select, textarea {
 			text-transform: uppercase;
 			font-weight: 400;
 			color: #888;
-			margin: 2.5em 0 0 0;
+			margin: 2em 0 0 0;
 			font-size: 0.85em;
 			letter-spacing: 3px;
 			text-align: center;
@@ -1981,12 +1981,12 @@ input, select, textarea {
 			}
 
 			#nav > ul > li.active > a:before, #nav > ul > li:hover > a:before {
-				background: #ED786A;
+				background: rgb(182, 163, 24);
 				color: #fff;
 			}
 
 			#nav > ul > li.active > a > span, #nav > ul > li:hover > a > span {
-				color: #ED786A;
+				color:rgb(182, 163, 24);
 			}
 
 	.dropotron {
@@ -2053,7 +2053,7 @@ input, select, textarea {
 				-webkit-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 				-ms-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 				transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
-				color: #ed786a;
+				color: rgb(182, 163, 24);
 			}
 
 /* Features */

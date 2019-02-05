@@ -3,3 +3,21 @@
     font-size: 30px;
     color:rgb(182, 163, 24);
 }
+
+#glg2{
+    font-family: 'Righteous', cursive;
+    font-size: 50px;
+    color:rgb(182, 163, 24);
+}
+
+#groupheader{
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+#grouptext{
+    text-align: center;
+    font-size: 14px;
+    color: black;
+}
