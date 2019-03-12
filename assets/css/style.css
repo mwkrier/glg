@@ -31,6 +31,18 @@
     color: black;
 }
 
+#grouptext3{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    font-size: 20px;
+}
+
+#grouptext4{
+    font-family: 'Permanent Marker', cursive;
+    text-align: left;
+    font-size: 20px;
+}
+
 #navtext{
     font-family: 'Permanent Marker', cursive;
     text-align: center;
@@ -40,4 +52,8 @@
 .card-formats{
     margin-top: 25px;
     margin-bottom: 25px;
+}
+
+.centerit{
+    text-align: center;
 }
