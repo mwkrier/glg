@@ -75,7 +75,47 @@
     background-image: url("images/tunnel.jpg");
     background-size: 1750px;
     background-repeat: no-repeat;
-    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    width: 85%;
+    height: 610px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+  .sizeBackgroundAbout {
+    background-image: url("images/spaceship.jpg");
+    background-size: 1750px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 85%;
+    height: 610px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+  .sizeBackgroundFindGroup {
+    background-image: url("images/batman.jpg");
+    background-size: 1750px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 85%;
+    height: 610px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+  .sizeBackgroundBlog {
+    background-image: url("images/castle.jpg");
+    background-size: 1750px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
     width: 85%;
     height: 610px;
     margin-left: auto;
