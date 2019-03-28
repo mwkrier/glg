@@ -72,7 +72,7 @@
 }
 
 .sizeBackground {
-    background-image: url("images/tunnel.jpg");
+    background-image: url("images/tunnel1.jpg");
     background-size: 1750px;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -85,7 +85,7 @@
   }
 
   .sizeBackgroundAbout {
-    background-image: url("images/spaceship.jpg");
+    background-image: url("images/sword.png");
     background-size: 1750px;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -111,7 +111,7 @@
   }
 
   .sizeBackgroundBlog {
-    background-image: url("images/castle.jpg");
+    background-image: url("images/gatekeeper.jpg");
     background-size: 1750px;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -122,3 +122,4 @@
     margin-right: auto;
     
   }
+
