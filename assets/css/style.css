@@ -41,6 +41,7 @@
     font-family: 'Permanent Marker', cursive;
     text-align: left;
     font-size: 20px;
+    color: black;
 }
 
 #navtext{
@@ -123,3 +124,24 @@
     
   }
 
+.textColors{
+    color: black;
+}
+
+.textColorsTitle{
+    color: goldenrod;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.textColorsLinks{
+    color: black;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.comicBorder{
+    border: solid 5px black;
+    outline: solid 5px white;
+    margin-bottom: 10px; 
+}
